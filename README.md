@@ -6,13 +6,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=$MathewsJosh)
 
-<a href="https://github.com/MathewsJosh/CG2021-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathewsJosh&repo=CG2021-1&show_owner=True&bg_color=D4F1F7,BFE6F4,ABDCF1,96D1EE,81C6EB" />
-</a>
-<a href="https://github.com/MathewsJosh/CG2021-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathewsJosh&repo=CG2021-1&show_owner=True&bg_color=D4F1F7,BFE6F4,ABDCF1,96D1EE,81C6EB" />
-</a>
-
 <!--
 **MathewsJosh/MathewsJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,4 +19,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+
+<!-- Repositórios
+<a href="https://github.com/MathewsJosh/CG2021-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathewsJosh&repo=CG2021-1&show_owner=True&bg_color=D4F1F7,BFE6F4,ABDCF1,96D1EE,81C6EB" />
+</a>
+<a href="https://github.com/MathewsJosh/CG2021-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathewsJosh&repo=CG2021-1&show_owner=True&bg_color=D4F1F7,BFE6F4,ABDCF1,96D1EE,81C6EB" />
+</a>
 -->
