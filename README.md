@@ -4,12 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathewsjosh&label=Profile%20views&color=0e75b6&style=flat" alt="mathewsjosh" /> </p>
 </p>
 
-🔭 I’m currently working on **Happy Cow ID and Click Cocho projects**
-🌱 I’m currently learning **Deep Learning, Mobile and Web development**
-👨‍💻 All of my projects are available at [https://github.com/MathewsJosh](https://github.com/MathewsJosh)
-💬 Ask me about **Object detection**, **Segmentation** and **Python**
-📫 How to reach me **mathews.gomes@engenharia.ufjf.br**
-📄 Know about my experiences [https://www.linkedin.com/in/mathewsjoshega/](https://www.linkedin.com/in/mathewsjoshega/)
+🔭 I’m currently working on **Happy Cow ID and Click Cocho projects** <br>
+🌱 I’m currently learning **Deep Learning, Mobile and Web development** <br>
+👨‍💻 All of my projects are available at [https://github.com/MathewsJosh](https://github.com/MathewsJosh) <br>
+💬 Ask me about **Object detection**, **Segmentation** and **Python** <br>
+📫 How to reach me **mathews.gomes@engenharia.ufjf.br** <br>
+📄 Know about my experiences [https://www.linkedin.com/in/mathewsjoshega/](https://www.linkedin.com/in/mathewsjoshega/) <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
