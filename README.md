@@ -29,4 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mathewsjosh&show_icons=true&locale=en&theme=buefy&title_color=000000&text_color=000000&icon_color=000000&hide_border=True&count_private=true&bg_color=EBF7F5,D4F1F2,BDEBF0,A6E4ED,8FDEEA" alt="mathewsjosh" width="420"/></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathewsjosh&show_icons=true&locale=en&layout=compact&langs_count=6theme=buefy&hide=html,css&title_color=000000&text_color=000000&icon_color=000000&hide_border=True&bg_color=8FDEEA,A6E4ED,BDEBF0,D4F1F2,EBF7F5" href="https://github.com/MathewsJosh" alt="mathewsjosh"/></p>
+<p>&nbsp;<a href="https://github.com/MathewsJosh"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathewsjosh&show_icons=true&locale=en&layout=compact&langs_count=6theme=buefy&hide=html,css&title_color=000000&text_color=000000&icon_color=000000&hide_border=True&bg_color=8FDEEA,A6E4ED,BDEBF0,D4F1F2,EBF7F5" alt="mathewsjosh"/></p>
