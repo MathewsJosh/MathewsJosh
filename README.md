@@ -67,7 +67,7 @@
   
   
   
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpnghut.com%2Fpng%2FnCXDzjuHNu%2Fmatlab-mathworks-simulink-logo-computer-software-inform-aacute-tica-transparent-png&psig=AOvVaw0XmXUYQE70kBUQI29o7gPP&ust=1639092796123000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjYhtKu1fQCFQAAAAAdAAAAABAD" alt="matlab" width="40" height="40"/> </a> 
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://img1.pnghut.com/19/23/1/nCXDzjuHNu/logo-robotics-business-dspace-gmbh-text.jpg" alt="matlab" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
