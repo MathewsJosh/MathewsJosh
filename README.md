@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathewsJosh&repo=convoychat" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MathewsJosh&repo=CG2021-1)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MathewsJosh&repo=CG2021-1&show_owner=True)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
