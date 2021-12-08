@@ -5,15 +5,10 @@
 </p>
 
 - 🔭 I’m currently working on **Happy Cow ID and Click Cocho projects**
-
 - 🌱 I’m currently learning **Deep Learning, Mobile and Web development**
-
 - 👨‍💻 All of my projects are available at [https://github.com/MathewsJosh](https://github.com/MathewsJosh)
-
-- 💬 Ask me about **Object detection**
-
+- 💬 Ask me about **Object detection**, **Segmentation** and **Python**
 - 📫 How to reach me **mathews.gomes@engenharia.ufjf.br**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/mathewsjoshega/](https://www.linkedin.com/in/mathewsjoshega/)
 
 <h3 align="left">Connect with me:</h3>
