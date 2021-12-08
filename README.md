@@ -22,8 +22,12 @@
 
 <h3 align="left">OS:</h3>
 <p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/> </a> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a> 
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=whitek" alt="ubuntu"/> </a> 
+  <a href="https://www.microsoft.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/> </a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
