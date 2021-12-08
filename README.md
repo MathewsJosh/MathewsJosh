@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathewsJosh&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=91a7e9,6484e1,ab82eb,9651ef)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewsJosh&layout=compact&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=91a7e9,6484e1,ab82eb,9651ef)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathewsJosh&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewsJosh&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=$MathewsJosh.$MathewsJosh)
 
