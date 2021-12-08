@@ -3,6 +3,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewsJosh&layout=compact&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=91a7e9,6484e1,ab82eb,9651ef)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=$MathewsJosh.$MathewsJosh)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathewsJosh&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathewsJosh&repo=convoychat" />
+</a>
+
 <!--
 **MathewsJosh/MathewsJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
