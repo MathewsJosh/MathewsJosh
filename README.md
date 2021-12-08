@@ -8,11 +8,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathewsJosh&repo=CG2021-1&show_owner=True" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathewsJosh&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MathewsJosh&repo=CG2021-1&show_owner=True" />
 </a>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MathewsJosh&repo=CG2021-1&show_owner=True)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **MathewsJosh/MathewsJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
