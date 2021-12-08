@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathewsjosh&label=Profile%20views&color=0e75b6&style=flat" alt="mathewsjosh" /> </p>
 </p>
 
+🎓 I'm about to graduate in computational engineering at Universidade Federal de Juiz de fora - UFJF. <br>
 🔭 I’m currently working on **Happy Cow ID and Click Cocho projects** <br>
 🌱 I’m currently learning **Deep Learning, Mobile and Web development** <br>
 👨‍💻 All of my projects are available at [https://github.com/MathewsJosh](https://github.com/MathewsJosh) <br>
