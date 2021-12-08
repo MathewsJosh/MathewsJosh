@@ -2,8 +2,7 @@
 <h3 align="center">A passionate data scientist developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathewsjosh&label=Profile%20views&color=0e75b6&style=flat" alt="mathewsjosh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathewsjosh" alt="mathewsjosh" /></a> </p>
+</p>
 
 - 🔭 I’m currently working on **Happy Cow ID and Click Cocho projects**
 
@@ -23,7 +22,6 @@
 <a href="https://fb.com/mathewsjoshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mathewsjoshh" height="30" width="40" /></a>
 <a href="https://instagram.com/mathewsjosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mathewsjosh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mathewsjosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mathewsjosh" height="30" width="40" /></a>
-<a href="https://discord.gg/Tio Rex#5581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tio Rex#5581" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathewsjosh&show_icons=true&locale=en&layout=compact" alt="mathewsjosh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathewsjosh&show_icons=true&locale=en" alt="mathewsjosh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathewsjosh&" alt="mathewsjosh" /></p>
