@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathewsJosh&count_private=true&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&hide_border=true&bg_color=7caae7,6f9dd9,ab82eb,8742f3)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathewsJosh&count_private=true&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&hide_border=true&bg_color=91a7e9,6484e1,ab82eb,8742f3)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewsJosh&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=$MathewsJosh.$MathewsJosh)
