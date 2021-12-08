@@ -67,7 +67,7 @@
   
   
   
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://img1.pnghut.com/19/23/1/nCXDzjuHNu/logo-robotics-business-dspace-gmbh-text.jpg" alt="matlab" width="40" height="40"/> </a> 
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/06/MATLAB-Logo.jpg" alt="matlab" width="55" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
