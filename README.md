@@ -1,7 +1,8 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathewsJosh&count_private=true&show_icons=true&theme=radical&repo=CG2021-1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=$MathewsJosh.$MathewsJosh)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathewsJosh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
 **MathewsJosh/MathewsJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
