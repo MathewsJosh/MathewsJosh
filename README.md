@@ -41,7 +41,7 @@
 <h3 align="left">🖍📐 Design:</h3>
 <p align="left">
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop"/> </a>
-  <a href="https://www.vegascreativesoftware.com/br/vegas-pro/" target="_blank" rel="noreferrer"> <img src="vegas.png" alt="sonyvegas" width="100" height="33"/> </a> 
+  <a href="https://www.vegascreativesoftware.com/br/vegas-pro/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/vegas-000000?style=for-the-badge&logo=sony&logoColor=white" alt="sonyvegas" width="100" height="33"/> </a> 
 </p>
 
 <h3 align="left">🚀 Frameworks:</h3>
