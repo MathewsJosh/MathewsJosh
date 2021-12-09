@@ -6,8 +6,8 @@
 </p>
 
 🎓 I'm about to graduate in **Computational Engineering** at **Universidade Federal de Juiz de fora - UFJF**. <br>
-🔭 I am working on the development of the **Happy Cow ID and Click Cocho projects**. <br>
-🌱 I have been focusing my studies on **Deep Learning, Artificial Intelligence and Data Science**. <br>
+🔭 I am working on the development of the **Happy Cow ID** and **Click Cocho projects**. <br>
+🌱 I have been focusing my studies on **Deep Learning, Artificial Intelligence** and **Data Science**. <br>
 👨‍💻 All of my projects are available at [https://github.com/MathewsJosh](https://github.com/MathewsJosh). <br>
 💬 Feel free to ask or contact me about anything. <br>
 
@@ -19,7 +19,7 @@
 <a href="https://www.youtube.com/c/mathewsjosh" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="mathewsjosh"/></a>
 </p>
 
-<br>
+
 <h2 align="left">Some coding statistics:</h2>
 <p><a href="https://github.com/MathewsJosh"><img align="left" src="https://github-readme-stats.vercel.app/api?username=mathewsjosh&show_icons=true&locale=en&theme=buefy&title_color=000000&text_color=000000&icon_color=000000&hide_border=True&count_private=True&bg_color=EBF7F5,D4F1F2,BDEBF0,A6E4ED,8FDEEA" alt="mathewsjosh" style="width:430px;"/></p>
 
