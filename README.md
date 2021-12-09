@@ -18,8 +18,15 @@
 <a href="https://instagram.com/mathewsjosh" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="mathewsjosh"/></a>
 <a href="https://www.youtube.com/c/mathewsjosh" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="mathewsjosh"/></a>
 </p>
-<br>
 
+<br>
+<h2 align="left">Some coding statistics:</h2>
+<p><a href="https://github.com/MathewsJosh"><img align="left" src="https://github-readme-stats.vercel.app/api?username=mathewsjosh&show_icons=true&locale=en&theme=buefy&title_color=000000&text_color=000000&icon_color=000000&hide_border=True&count_private=True&bg_color=EBF7F5,D4F1F2,BDEBF0,A6E4ED,8FDEEA" alt="mathewsjosh" style="width:430px;"/></p>
+
+<p>&nbsp;<a href="https://github.com/MathewsJosh"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathewsjosh&show_icons=true&locale=en&layout=compact&langs_count=5theme=buefy&hide=html,css,gap&title_color=000000&text_color=000000&icon_color=000000&hide_border=True&bg_color=8FDEEA,A6E4ED,BDEBF0,D4F1F2,EBF7F5" alt="mathewsjosh" style="width:363px;" /></p>
+
+
+<br><br><br><br><br><br><br>
 <h2 align="left">Languages and Tools:</h2>
 
 <h3 align="left">☁ Cloud:</h3>
@@ -86,9 +93,3 @@
   <a href="https://www.microsoft.com/pt-br" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/> </a>
 </p>
 <br>
-
-<h2 align="left">Some statistics:</h2>
-
-<p><a href="https://github.com/MathewsJosh"><img align="left" src="https://github-readme-stats.vercel.app/api?username=mathewsjosh&show_icons=true&locale=en&theme=buefy&title_color=000000&text_color=000000&icon_color=000000&hide_border=True&count_private=True&bg_color=EBF7F5,D4F1F2,BDEBF0,A6E4ED,8FDEEA" alt="mathewsjosh" style="width:430px;"/></p>
-
-<p>&nbsp;<a href="https://github.com/MathewsJosh"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathewsjosh&show_icons=true&locale=en&layout=compact&langs_count=6theme=buefy&hide=html,css&title_color=000000&text_color=000000&icon_color=000000&hide_border=True&bg_color=8FDEEA,A6E4ED,BDEBF0,D4F1F2,EBF7F5" alt="mathewsjosh" style="width:363px;" /></p>
