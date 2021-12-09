@@ -41,7 +41,7 @@
 <h3 align="left">🖍📐 Design:</h3>
 <p align="left">
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop"/> </a>
-  <a href="https://www.vegascreativesoftware.com/br/vegas-pro/" target="_blank" rel="noreferrer"> <img src="sonyvegasbranco.png" alt="sonyvegas" width="150" height="28"/> </a> 
+  <a href="https://www.vegascreativesoftware.com/br/vegas-pro/" target="_blank" rel="noreferrer"> <img src="vegas.png" alt="sonyvegas" width="100" height="33"/> </a> 
 </p>
 
 <h3 align="left">🚀 Frameworks:</h3>
@@ -65,7 +65,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a> 
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/> </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcJ7SuOFECGE1pKrPdXmo25hBb5WRF1O-Y-w&usqp=CAU" alt="matlab"  width="100" height="28"/> </a> 
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="matlab.png" alt="matlab"  width="100" height="28"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch"/> </a>
