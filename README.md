@@ -1,14 +1,15 @@
 <h1 align="center">Helloooo, I'm Mathews Edwirds, aka Mathews Josh</h1>
-<h3 align="center">A passionate data scientist developer from Brazil</h3>
+<h3 align="center">A passionate Data Scientist Developer and Machine Learning researcher from Brazil</h3>
 
 <h2 align="left">About me:</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathewsjosh&label=Profile%20views&color=0e75b6&style=flat" alt="mathewsjosh" /> </p>
 </p>
 
-🎓 I'm about to graduate in **Computational Engineering** at **Universidade Federal de Juiz de fora - UFJF**. <br>
-🔭 I am working on the development of the **Happy Cow ID** and **Click Cocho projects**. <br>
-🌱 I have been focusing my studies on **Deep Learning, Artificial Intelligence** and **Data Science**. <br>
-👨‍💻 All of my projects are available at [https://github.com/MathewsJosh](https://github.com/MathewsJosh). <br>
+👨‍💻 I am currently working on [Lyncas](https://lyncas.net/). <br>
+🎓 About to graduate in **Computational Engineering** at **Universidade Federal de Juiz de fora - UFJF**. <br>
+🔭 Also working on the development of the **Happy Cow ID** and **Click Cocho projects**. <br>
+🌱 I have been focusing my studies on **Machine Learning, Artificial Intelligence** and **Data Science**. <br>
+💻 All of my projects are available at [here](https://github.com/MathewsJosh). <br>
 💬 Feel free to ask or contact me about anything. <br>
 
 <h3 align="left">📮 My Social Media:</h3>
@@ -47,6 +48,7 @@
 <p align="left">
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop"/> </a>
   <a href="https://www.vegascreativesoftware.com/br/vegas-pro/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/vegas-000000?style=for-the-badge&logo=sony&logoColor=white" alt="sonyvegas"/> </a> 
+  <a href="https://www.adobe.com/br/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="sonyvegas"/> </a> 
 </p>
 
 <h3 align="left">🚀 Frameworks:</h3>
