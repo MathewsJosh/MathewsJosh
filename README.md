@@ -6,10 +6,10 @@
 </p>
 
 👨‍💻 I am currently working as Python Junior Developer on [Lyncas](https://lyncas.net/). <br>
-🎓 About to graduate in **Computational Engineering** at **Universidade Federal de Juiz de fora - UFJF**. <br>
+🎓 I am about to graduate in **Computational Engineering** at **Universidade Federal de Juiz de Fora - UFJF**. <br>
 🔭 Also working on the development of the **Happy Cow ID** and **Click Cocho projects**. <br>
 🌱 I have been focusing my studies on **Machine Learning, Artificial Intelligence** and **Data Science**. <br>
-💻 All of my projects are available at [here](https://github.com/MathewsJosh). <br>
+💻 All of my projects are available [here](https://github.com/MathewsJosh). <br>
 💬 Feel free to ask or contact me about anything. <br>
 
 <h3 align="left">📮 My Social Media:</h3>
