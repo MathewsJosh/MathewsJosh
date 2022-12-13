@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathewsjosh&label=Profile%20views&color=0e75b6&style=flat" alt="mathewsjosh" /> </p>
 </p>
 
-👨‍💻 I am currently working on [Lyncas](https://lyncas.net/). <br>
+👨‍💻 I am currently working as Python Junior Developer on [Lyncas](https://lyncas.net/). <br>
 🎓 About to graduate in **Computational Engineering** at **Universidade Federal de Juiz de fora - UFJF**. <br>
 🔭 Also working on the development of the **Happy Cow ID** and **Click Cocho projects**. <br>
 🌱 I have been focusing my studies on **Machine Learning, Artificial Intelligence** and **Data Science**. <br>
