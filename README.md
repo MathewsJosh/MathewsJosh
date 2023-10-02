@@ -1,12 +1,12 @@
-<h1 align="center">Helloooo, I'm Mathews Edwirds, aka Mathews Josh</h1>
-<h3 align="center">A passionate Data Scientist Developer and Machine Learning researcher from Brazil</h3>
+<h1 align="center">Hello, I'm Mathews Edwirds</h1>
+<h3 align="center">A passionate Data Scientist and Machine Learning researcher from Brazil</h3>
 
 <h2 align="left">About me:</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathewsjosh&label=Profile%20views&color=0e75b6&style=flat" alt="mathewsjosh" /> </p>
 </p>
 
 👨‍💻 I am currently working as Python Junior Developer on [Lyncas](https://lyncas.net/). <br>
-🎓 I am about to graduate in **Computational Engineering** at **Universidade Federal de Juiz de Fora - UFJF**. <br>
+🎓 I am graduated in **Computational Engineering** at **Universidade Federal de Juiz de Fora - UFJF**. <br>
 🔭 Also working on the development of the **Happy Cow ID** and **Click Cocho projects**. <br>
 🌱 I have been focusing my studies on **Machine Learning, Artificial Intelligence** and **Data Science**. <br>
 💻 All of my projects are available [here](https://github.com/MathewsJosh). <br>
