@@ -39,6 +39,28 @@
 
 <br>
 
+<h2 align="center">🎓 Education</h2>
+
+<div align="center">
+  <table style="border: none; background-color: transparent; margin: 0 auto; width: 80%;">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Post--Graduation-Data%20Science-blue?style=for-the-badge&logo=python&logoColor=white" alt="Post-Grad Data Science"/>
+      </td>
+      <td align="center">
+         <img src="https://img.shields.io/badge/Post--Graduation-Software%20Engineering-blue?style=for-the-badge&logo=c&logoColor=white" alt="Post-Grad Software Engineering"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://img.shields.io/badge/Bachelor-Computational%20Engineering-00599C?style=for-the-badge&logo=university&logoColor=white" alt="Bachelor Computational Engineering"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
 <h2 align="center">💼 Professional Experience</h2>
 
 <div>
@@ -58,23 +80,29 @@
     </li>
   </ul>
 
+  <h3>🆔 Identity Verification & Biometrics</h3>
+  <ul>
+    <li>
+      <strong>Biometric Systems:</strong> Engineered high-accuracy <strong>Person Recognition</strong> systems using advanced <strong>Face Embeddings</strong>.
+    </li>
+    <li>
+      <strong>Liveness & Security:</strong> Implemented <strong>Gaze Tracking</strong> and liveness detection algorithms to prevent spoofing.
+    </li>
+    <li>
+      <strong>Documentoscopy:</strong> Specialized in <strong>Documentoscopy</strong> for fraud detection. Built robust pipelines for <strong>Brazilian Document Detection</strong> (RG, CNH) and automated data extraction via <strong>OCR</strong>.
+    </li>
+  </ul>
+
   <h3>🤖 MLOps & Computer Vision Engineering</h3>
   <ul>
     <li>
       <strong>Orchestration:</strong> Managed MLOps infrastructure and deployed models for Classification, Object Detection, and OCR.
     </li>
     <li>
-      <strong>Development:</strong> Developed Face Detection and Anti-spoofing systems. Built automated checking tools and RESTful APIs using <strong>TensorFlow</strong>, <strong>PyTorch</strong>, and <strong>AWS/GCP</strong>.
+      <strong>Development:</strong> Built automated checking tools and RESTful APIs using <strong>TensorFlow</strong>, <strong>PyTorch</strong>, and <strong>AWS/GCP</strong>.
     </li>
     <li>
       <strong>Data & Cloud:</strong> Handled dataset annotation, cloud computing resources, and implemented logging policies with Elastic/Kibana.
-    </li>
-  </ul>
-
-  <h3>🆔 Identity Verification & Biometrics</h3>
-  <ul>
-    <li>
-      Specialized work in <strong>Documentoscopy</strong>, <strong>Person Detection</strong>, and <strong>Voice Biometrics</strong>.
     </li>
   </ul>
 </div>
@@ -98,6 +126,7 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
 <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=anaconda&logoColor=white" alt="Matplotlib"/>
@@ -120,12 +149,17 @@
 <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
 
 ### 🛠 Tools & Design
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" alt="Kibana"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
 <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
 <img src="https://img.shields.io/badge/Adobe_Premiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere"/>
 <img src="https://img.shields.io/badge/Vegas_Pro-000000?style=for-the-badge&logo=sony&logoColor=white" alt="Vegas Pro"/>
