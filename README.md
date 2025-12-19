@@ -169,12 +169,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathewsjosh&show_icons=true&locale=en&layout=compact&langs_count=6&theme=transparent&title_color=0077B5&text_color=555&icon_color=0077B5&hide_border=true" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
   <a href="https://linkedin.com/in/mathewsjoshega" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
