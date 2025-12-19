@@ -11,11 +11,8 @@
   <a href="https://github.com/MathewsJosh" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:mathews.joshega@gmail.com" target="_blank">
+  <a href="mailto:mathewsedwirds@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://instagram.com/mathewsjosh" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
 
@@ -24,28 +21,62 @@
 <div align="center">
   <table style="border: none; background-color: transparent; margin: 0 auto;">
     <tr style="border: none; background-color: transparent;">
-      <td width="55%" valign="top" style="border: none; background-color: transparent; text-align: left;">
+      <td width="60%" valign="top" style="border: none; background-color: transparent; text-align: left;">
         <h2>👨‍💻 About Me</h2>
         <p>
-          I am a <strong>Computational Engineer</strong> graduated from <strong>UFJF</strong> (Universidade Federal de Juiz de Fora) and currently working as a <strong>Python Developer</strong>.
+          I am a <strong>Computational Engineer</strong> graduated from <strong>UFJF</strong> (Universidade Federal de Juiz de Fora) and a passionate <strong>Python Developer</strong>.
         </p>
         <p>
-          My passion lies in <strong>Data Science</strong>, <strong>Machine Learning</strong>, and <strong>Artificial Intelligence</strong>. I am dedicated to building intelligent systems and efficient software solutions to solve real-world problems.
+          My focus is on <strong>Data Science</strong>, <strong>Machine Learning</strong>, and <strong>Computer Vision</strong>. I am dedicated to building robust intelligent systems, from training complex models to deploying scalable MLOps pipelines in critical production environments.
         </p>
-        <p>
-          🚀 <strong>Key Highlights:</strong>
-        </p>
-        <ul>
-          <li>Developing <strong>Happy Cow ID</strong> and <strong>Click Cocho</strong>.</li>
-          <li>Researching advanced algorithms in AI/ML.</li>
-          <li>Building scalable full-stack and data-driven applications.</li>
-        </ul>
       </td>
-      <td width="45%" valign="middle" style="border: none; background-color: transparent; text-align: center;">
+      <td width="40%" valign="middle" style="border: none; background-color: transparent; text-align: center;">
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=mathewsjosh&show_icons=true&locale=en&theme=transparent&title_color=0077B5&text_color=555&icon_color=0077B5&hide_border=true&count_private=true" alt="MathewsJosh Stats" />
       </td>
     </tr>
   </table>
+</div>
+
+<br>
+
+<h2 align="center">💼 Professional Experience</h2>
+
+<div>
+  <h3>🏗️ Industrial AI & Computer Vision</h3>
+  <ul>
+    <li>
+      <strong>Machine Learning & Deep Learning:</strong> Developed and fine-tuned models (ResNet18, Swin Transformer) for detection, classification, and tracking in critical sectors (onshore, offshore, railway). Implemented <strong>Explainable AI</strong> (Saliency maps, Integrated Gradients) and custom algorithms like <strong>ICP</strong> for trajectory estimation.
+    </li>
+    <li>
+      <strong>Production Engineering:</strong> Built real-time image processing pipelines, handling historical video streams with RabbitMQ and automated assembly.
+    </li>
+    <li>
+      <strong>LLM Integration:</strong> Integrated multimodal models (Gemini, Pixtral) for semantic image analysis, robust JSON extraction, and contextual alerting.
+    </li>
+    <li>
+      <strong>MLOps & Systems:</strong> Architected event-driven pipelines, containerized CPU/GPU environments (Docker), and established full observability with Grafana and GCP.
+    </li>
+  </ul>
+
+  <h3>🤖 MLOps & Computer Vision Engineering</h3>
+  <ul>
+    <li>
+      <strong>Orchestration:</strong> Managed MLOps infrastructure and deployed models for Classification, Object Detection, and OCR.
+    </li>
+    <li>
+      <strong>Development:</strong> Developed Face Detection and Anti-spoofing systems. Built automated checking tools and RESTful APIs using <strong>TensorFlow</strong>, <strong>PyTorch</strong>, and <strong>AWS/GCP</strong>.
+    </li>
+    <li>
+      <strong>Data & Cloud:</strong> Handled dataset annotation, cloud computing resources, and implemented logging policies with Elastic/Kibana.
+    </li>
+  </ul>
+
+  <h3>🆔 Identity Verification & Biometrics</h3>
+  <ul>
+    <li>
+      Specialized work in <strong>Documentoscopy</strong>, <strong>Person Detection</strong>, and <strong>Voice Biometrics</strong>.
+    </li>
+  </ul>
 </div>
 
 <br>
